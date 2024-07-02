@@ -11,3 +11,10 @@ The code in this repo comes from https://x.com/I_Am_Jakoby/status/17976702910256
 There is also a Rust version available at https://github.com/BlackSnufkin/Rusty-Playground/tree/main/DefExclusions
 
 All credit for this goes to the three people mentioned above.
+
+
+# DumpDefenderConfig
+
+Adding Invoke-DumpDefenderConfig.ps1.
+
+Not created by me, but unfortunately don't know the creator to give credit.
