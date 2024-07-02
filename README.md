@@ -17,4 +17,4 @@ All credit for this goes to the three people mentioned above.
 
 Adding Invoke-DumpDefenderConfig.ps1.
 
-Not created by me, but unfortunately don't know the creator to give credit.
+Found the creator of this file: https://github.com/BlackSnufkin/Invoke-DumpMDEConfig
